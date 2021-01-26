@@ -17,7 +17,7 @@ type Movie ={
 }
 
 
-const API_KEY= '81f7c77f';
+const API_KEY= 'xxx';
 const series = ['avengers', 'ironman', 'harry potter']
 
 const Movies: React.FC<Props> = props => {
